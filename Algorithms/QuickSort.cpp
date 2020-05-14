@@ -55,7 +55,7 @@ void quickSort(int A[], int low, int high) {
 
 int main()
 {
-	int Array[] = { 4, 2, 2, 8, 3, 3, 1, 3, 6, 8 };
+	int Array[] = { 170, 28, 325, 12, 60, 91, 537, 5, 61, 8 };
 	int tam = sizeof(Array) / sizeof(Array[0]);
 
 	cout << "Array desordenado:\n";

@@ -38,7 +38,7 @@ void selectionSort(int A[], int a) {
 
 int main()
 {
-	int Array[] = { 4, 2, 2, 8, 3, 3, 1, 3, 6, 8 };
+	int Array[] = { 45, 32, 13, 80, 63, 37, 15, 23, 56, 48 };
 	int tam = sizeof(Array) / sizeof(Array[0]);
 
 	cout << "Array desordenado:\n";
